@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImageManagement</string>
+    <string name="vDet">View detail</string>
+    <string name="cache_dirname">GoogleImgApp_Cache</string>
+    <string name="wait_msg">please wait...</string>
+    <string name="fram_web">http://recruit.framgia.vn/</string>
+    <string name="base_google_image_api_request_link">https://ajax.googleapis.com/ajax/services/search/images?v=1</string>
+    <string name="imageUrl">imageUrl</string>
+    <string name="imageTitle">imageTitle</string>
+</resources>
